@@ -11,8 +11,6 @@
 
     This can be easy run by using "make run" or "make val" in a terminal
 
-    Adding some text
-
 */
 
 int main()
